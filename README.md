@@ -1,5 +1,3 @@
-https://soniakarungi.github.io/-Youtube-Player-Replica/
-
 # Youtube-Player-Replica
 
 > The goal of this project is to create the UI of the Youtube video player page.
